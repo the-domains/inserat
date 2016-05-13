@@ -1,8 +1,28 @@
-layout_spectrum: 0.5795739
-color:
-  saturation: 0.3489634
-  brandStrength: 0.4906015
-  lightness: 0.547977
-  rhythmicContrast: 0.1675608
-typography_spectrum: 0.6892231
 name: Inserat
+favicon: null
+layout_spectrum: 0.34575
+typography_spectrum: 0.6937
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#191d1c'
+    - '#dbe0e3'
+    - '#88c3d3'
+    - '#84976a'
+    - '#d03a46'
+  brandStrength: 0.5
+  lightness: 0.547977
+  saturation: 0.4375
+  rhythmicContrast: 0.1675608
+purpose: []
