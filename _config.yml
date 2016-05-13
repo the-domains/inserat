@@ -4,11 +4,5 @@ color:
   brandStrength: 0.4906015
   lightness: 0.547977
   rhythmicContrast: 0.1675608
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
 typography_spectrum: 0.6892231
 name: Inserat
