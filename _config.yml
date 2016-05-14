@@ -1,28 +1,40 @@
-name: Inserat
-favicon: null
 layout_spectrum: 0.34575
-typography_spectrum: 0.6937
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0d0709'
-    - '#9eaba7'
-    - '#84543e'
-    - '#4c2e26'
-    - '#801e1f'
-  brandStrength: 0.5
-  lightness: 0.547977
-  saturation: 0.4375
-  rhythmicContrast: 0.1675608
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4375
+  brandStrength: 0.7807018
+  lightness: 0.547977
+  brandColors:
+    - '#A1BACC'
+    - '#F1DDD6'
+    - '#657886'
+    - '#958A8C'
+    - '#042944'
+  rhythmicContrast: 0.1675608
+typography_spectrum: 0.6937
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Inserat
